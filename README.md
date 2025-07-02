@@ -1,7 +1,12 @@
-# 你好，我是 Y-ASLant 👋
+# Hello，I'm ASLant 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+%26+Creator;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+## 📝 每日一言
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ## 🔗 个人链接
