@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/嵌入式-FF6600?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-27bb5f?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/嵌入式-ffbe42?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-6c8393?style=for-the-badge&logo=opencv&logoColor=white" />
   <!-- 添加更多你使用的技术 -->
 </div>
 
