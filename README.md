@@ -1,20 +1,17 @@
 ## Hi there 👋
-
+I'm Y-ASLant - Developer & Creator
+🔗 **My Links:**
+- 🌐 Personal Website: [aslant.top](https://aslant.top)
+- 📦 Resource Station: [aslant-api.cn](https://aslant-api.cn)
 <!--
-**Y-ASLant/Y-ASLant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Y-ASLant/Y-ASLant** is a ✨ _special_ ✨ repository that displays this README on my profile.
+Current Focus:
+- 🔭 Working on [Project Name](link)
+- 🌱 Learning [Technology]
+- ⚡ Fun fact: [Interesting Fact]
 -->
-[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/Y-ASLant)
+
+[![](https://raw.githubusercontent.com/Y-ASLant/Y-ASLant/refs/heads/main/pic/snake.svg)](https://github.com/Y-ASLant)
 
 ### 🏆 GitHub 成就
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Y-ASLant&theme=gruvbox)
