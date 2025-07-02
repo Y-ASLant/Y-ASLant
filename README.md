@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+%26+Creator;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 📜 一言
-<div align="center">
-  <img src="https://whyta.cn/api/tx/lzmy?key=36de5db81215" alt="每日一言" />
-</div>
-
 ## 🔗 个人链接
 - 🌍 个人网站: [🌟·index](https://aslant.top)
 - 📦 资源站: [🍁·cloud](https://aslant-api.cn)
