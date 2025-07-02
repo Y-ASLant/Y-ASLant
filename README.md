@@ -1,8 +1,9 @@
 ## Hi there 👋
 I'm Y-ASLant - Developer & Creator
 🔗 **My Links:**
-- 🌐 Personal Website: [aslant.top](https://aslant.top)
-- 📦 Resource Station: [aslant-api.cn](https://aslant-api.cn)
+- 🌐 Personal Website: [Index](https://aslant.top)
+- 📦 Resource Station: [Cloud](https://aslant-api.cn)
+
 <!--
 **Y-ASLant/Y-ASLant** is a ✨ _special_ ✨ repository that displays this README on my profile.
 Current Focus:
