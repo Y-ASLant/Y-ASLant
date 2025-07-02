@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Qt-27bb5f?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/嵌入式-ffbe42?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-6c8393?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <!-- 添加更多你使用的技术 -->
 </div>
 
