@@ -1,9 +1,21 @@
-## Hi there 👋
-I'm Y-ASLant - Developer & Creator
-🔗 **My Links:**
-- 🌍 Personal Website: [🌟·index](https://aslant.top)
-- 📦 Resource Station: [🍁·cloud](https://aslant-api.cn)
-- 📮 Email: aslant2002@outlook.com
+# 你好，我是 Y-ASLant 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+%26+Creator;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+## 🔗 个人链接
+- 🌍 个人网站: [🌟·index](https://aslant.top)
+- 📦 资源站: [🍁·cloud](https://aslant-api.cn)
+- 📮 Email:[✨·outlook](mailto:aslant2002@outlook.com)
+
+## 💻 技术栈
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <!-- 添加更多你使用的技术 -->
+</div>
 
 <!--
 **Y-ASLant/Y-ASLant** is a ✨ _special_ ✨ repository that displays this README on my profile.
@@ -17,3 +29,9 @@ Current Focus:
 
 ### 🏆 GitHub 成就
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Y-ASLant&theme=gruvbox)
+
+### 📊 GitHub 统计
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-ASLant&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-ASLant&layout=compact&theme=tokyonight" />
+</div>
