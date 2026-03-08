@@ -7,7 +7,7 @@
 ## 🔗 个人链接
 - 🌍 主站: [🌟·index](https://aslant.top)
 - 📦 资源站: [🍁·cloud](https://aslant-api.cn)
-- 📮 Email:[✨·outlook](mailto:aslant2002@outlook.com)
+- 📮 Email:[✨·outlook](mailto:y-aslant@outlook.com)
 
 
 ## 💻 技术栈
