@@ -22,11 +22,12 @@
   <img src="https://img.shields.io/badge/YOLO-6c8393?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <!-- 添加更多你使用的技术 -->
 </div>
+
 <!--
 **Y-ASLant/Y-ASLant** is a ✨ _special_ ✨ repository that displays this README on my profile.
 Current Focus:
-
 - 🔭 Working on [Project Name](link)
 - 🌱 Learning [Technology]
 - ⚡ Fun fact: [Interesting Fact]
@@ -34,17 +35,12 @@ Current Focus:
 
 [![](https://raw.githubusercontent.com/Y-ASLant/Y-ASLant/refs/heads/main/pic/snake.svg)](https://github.com/Y-ASLant)
 
-<div align="center">
-[![GitHub Roast](https://githubroast.icu/api/card/Y-ASLant)](https://githubroast.icu/u/Y-ASLant)
-</div>
-
 ### 🔥 GitHub Streak
-<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=Y-ASLant&theme=tokyonight)
-</div>
 
-### 📊 GitHub 统计
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-ASLant&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-ASLant&layout=compact&theme=tokyonight" />
 </div>
+
+[![GitHub Roast](https://githubroast.icu/api/card/Y-ASLant)](https://githubroast.icu/u/Y-ASLant)
