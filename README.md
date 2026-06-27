@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <!-- 添加更多你使用的技术 -->
 </div>
-
 <!--
 **Y-ASLant/Y-ASLant** is a ✨ _special_ ✨ repository that displays this README on my profile.
 Current Focus:
+
 - 🔭 Working on [Project Name](link)
 - 🌱 Learning [Technology]
 - ⚡ Fun fact: [Interesting Fact]
@@ -35,12 +35,16 @@ Current Focus:
 
 [![](https://raw.githubusercontent.com/Y-ASLant/Y-ASLant/refs/heads/main/pic/snake.svg)](https://github.com/Y-ASLant)
 
+<div align="center">
+[![GitHub Roast](https://githubroast.icu/api/card/Y-ASLant)](https://githubroast.icu/u/Y-ASLant)
+
 ### 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Y-ASLant&theme=tokyonight)
+
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-ASLant&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-ASLant&layout=compact&theme=tokyonight" />
 </div>
-
-[![GitHub Roast](https://githubroast.icu/api/card/Y-ASLant)](https://githubroast.icu/u/Y-ASLant)
