@@ -34,10 +34,9 @@ Current Focus:
 -->
 
 [![](https://raw.githubusercontent.com/Y-ASLant/Y-ASLant/refs/heads/main/pic/snake.svg)](https://github.com/Y-ASLant)
-
 ### 🔥 GitHub Streak
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Y-ASLant&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Y-ASLant&theme=tokyonight" />
 </div>
 
 ### 📊 GitHub 统计
