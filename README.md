@@ -35,11 +35,12 @@ Current Focus:
 
 [![](https://raw.githubusercontent.com/Y-ASLant/Y-ASLant/refs/heads/main/pic/snake.svg)](https://github.com/Y-ASLant)
 
-### 🏆 GitHub 成就
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Y-ASLant&theme=gruvbox)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Y-ASLant&theme=tokyonight)
 
-### 📊 GitHub 统计
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-ASLant&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-ASLant&layout=compact&theme=tokyonight" />
 </div>
+
+[![GitHub Roast](https://githubroast.icu/api/card/Y-ASLant)](https://githubroast.icu/u/Y-ASLant)
